@@ -1,5 +1,5 @@
 
-# Telusko Trac - Product Inventory Management
+#  Product Inventory Management
 update products set name ='Laptop Table' where id=6
 A comprehensive product inventory management system built with FastAPI backend and React frontend, providing seamless tracking and management of product inventory.
 
